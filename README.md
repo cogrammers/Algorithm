@@ -3,7 +3,7 @@
 What is inside this repo?
 Each folder contains a algorithm questions, and some test (if it is written in ruby).
 
-On the top of each question, there is a breif description of the question, input output, difficulty level and related tags.
+On the top of each question, there is a brief description of the question, input output, difficulty level and related tags.
 
 How to ran it?
 Java solution:
