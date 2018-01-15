@@ -21,9 +21,9 @@ output: index position of the first/any/last of the given target.
 ```
 ### Template
 
-- [First Position of Target](#)
-- [Classical Binary Search](#)
-- [Last Position of Target](#)
+- [First Position of Target](https://github.com/cogrammers/Algorithm/tree/master/firstPositionOfTarget)
+- [Classical Binary Search](https://github.com/cogrammers/Algorithm/tree/master/anyPositionOfTarget)
+- [Last Position of Target](https://github.com/cogrammers/Algorithm/tree/master/lasterPositionOfTarget)
 
 ### Easy
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
