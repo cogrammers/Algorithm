@@ -36,6 +36,9 @@ output: index position of the first/any/last of the given target.
 ### Hard
 - [Smallest Rectangle Enclosing Black Pixels](http://www.lintcode.com/en/problem/smallest-rectangle-enclosing-black-pixels/)
 
+### Pool
+- [Recover Rotated Sorted ArrayList](https://github.com/cogrammers/Algorithm/tree/master/recoverRotatedSortedList)
+
 ## Binary Tree & Divide Conquer
 ## Breath First Search
 ## Depth First Search
