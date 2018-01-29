@@ -17,7 +17,7 @@ class solution {
       }
       current = q.poll();
     }
-    return true;
+    return false;
   }
 
   public static Node buildTree() {
