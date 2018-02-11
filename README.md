@@ -54,7 +54,7 @@ output: index position of the first/any/last of the given target.
 ### Template
 
 - [Preorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/preorder)
-- [Inorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/ineorder)
+- [Inorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/inorder)
 - [Postorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/postorder)
 
 ## Breath First Search
