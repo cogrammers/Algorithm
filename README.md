@@ -40,6 +40,23 @@ output: index position of the first/any/last of the given target.
 - [Recover Rotated Sorted ArrayList](https://github.com/cogrammers/Algorithm/tree/master/recoverRotatedSortedList)
 
 ## Binary Tree & Divide Conquer
+```java
+  public class TreeNode {
+    public int value;
+    public TreeNode left, right;
+    public TreeNode(int) {
+      this.value = int;
+      this.left = this.right = null;
+    }
+  }
+```
+
+### Template
+
+- [Preorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/preorder)
+- [Inorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/ineorder)
+- [Postorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/postorder)
+
 ## Breath First Search
 ## Depth First Search
 ## Linked List & Array
