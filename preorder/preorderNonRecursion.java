@@ -8,7 +8,7 @@ public class Solution {
       this.right = null;
     }
   }
-  public List<Integer> preorderTraversal(TreeNode root) {
+  public List<Integer> preorder(TreeNode root) {
     Stack<TreeNode> stack = new Stack<TreeNode>();
     ArrayList<Integer> preorder = new ArrayList<Integer>();
 
