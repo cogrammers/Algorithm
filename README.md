@@ -57,6 +57,9 @@ output: index position of the first/any/last of the given target.
 - [Inorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/inorder)
 - [Postorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/postorder)
 
+### Easy
+
+- [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
 ## Breath First Search
 ## Depth First Search
 ## Linked List & Array
