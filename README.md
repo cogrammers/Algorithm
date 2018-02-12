@@ -64,6 +64,9 @@ output: index position of the first/any/last of the given target.
 - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 - [Subtree with Maximum Average](https://github.com/cogrammers/Algorithm/tree/master/subtreeWithMaximumAverage)
 
+### Med
+
+- [Validate Binary Search Tree](https://github.com/cogrammers/Algorithm/tree/master/validateBinarySearchTree)
 ## Breath First Search
 ## Depth First Search
 ## Linked List & Array
