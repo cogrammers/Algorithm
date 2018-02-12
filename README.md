@@ -60,6 +60,7 @@ output: index position of the first/any/last of the given target.
 ### Easy
 
 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
+- [Minimum Subtree](https://github.com/cogrammers/Algorithm/tree/master/minimumSubtree)
 - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 - [Subtree with Maximum Average](https://github.com/cogrammers/Algorithm/tree/master/subtreeWithMaximumAverage)
 
