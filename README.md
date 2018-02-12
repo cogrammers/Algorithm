@@ -60,6 +60,8 @@ output: index position of the first/any/last of the given target.
 ### Easy
 
 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
+- [Minimum Subtree](https://github.com/cogrammers/Algorithm/tree/master/minimumSubtree)
+
 ## Breath First Search
 ## Depth First Search
 ## Linked List & Array
