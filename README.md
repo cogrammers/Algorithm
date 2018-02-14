@@ -88,6 +88,20 @@ class MyCode {
 
 ```
 
+```ruby
+class TreeNode
+  attr_accessor :val, :left, :right
+  def initialize(num)
+    @val = num
+    @left = @right = nil
+  end
+end
+
+root = TreeNode.new(5)
+
+puts root.val
+```
+
 ### Template
 
 - [Preorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/preorder)
