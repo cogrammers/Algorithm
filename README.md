@@ -51,6 +51,43 @@ output: index position of the first/any/last of the given target.
   }
 ```
 
+```java
+
+// for codepad
+class MyCode {
+
+  public static class TreeNode {
+    public int val;
+    public TreeNode left, right;
+    public TreeNode(int num) {
+      this.val = num;
+      this.left = this.right = null;
+    }
+
+  }
+
+  public static void main (String[] args) {
+    TreeNode root = new TreeNode(2);
+    root.left = new TreeNode(3);
+    root.right = new TreeNode(4);
+    System.out.println(root.val);
+  }
+}
+```
+
+```javascript
+  class TreeNode {
+    constructor(num) {
+      this.val = num;
+      this.left = this.right = null;
+    }
+  }
+
+  var root = new TreeNode(3);
+  console.log(root.val);
+
+```
+
 ### Template
 
 - [Preorder Traversal](https://github.com/cogrammers/Algorithm/tree/master/preorder)
