@@ -187,7 +187,7 @@ puts root.val
 
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 - [Graph Valid Tree](https://github.com/cogrammers/Algorithm/tree/master/graphValidTree)
-
+- [Zombie in Matrix](https://github.com/cogrammers/Algorithm/tree/master/zombieInMatrix)
 ## Depth First Search
 ## Linked List & Array
 ## Two Pointers
