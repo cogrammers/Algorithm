@@ -121,6 +121,71 @@ puts root.val
 - [Lowest common Ancestor](https://github.com/cogrammers/Algorithm/tree/master/lowestCommonAncestor)
 
 ## Breath First Search
+```java
+  public class TreeNode {
+    public int value;
+    public TreeNode left, right;
+    public TreeNode(int) {
+      this.value = int;
+      this.left = this.right = null;
+    }
+  }
+```
+
+```java
+
+// for codepad
+class MyCode {
+
+  public static class TreeNode {
+    public int val;
+    public TreeNode left, right;
+    public TreeNode(int num) {
+      this.val = num;
+      this.left = this.right = null;
+    }
+
+  }
+
+  public static void main (String[] args) {
+    TreeNode root = new TreeNode(2);
+    root.left = new TreeNode(3);
+    root.right = new TreeNode(4);
+    System.out.println(root.val);
+  }
+}
+```
+
+```javascript
+  class TreeNode {
+    constructor(num) {
+      this.val = num;
+      this.left = this.right = null;
+    }
+  }
+
+  var root = new TreeNode(3);
+  console.log(root.val);
+
+```
+
+```ruby
+class TreeNode
+  attr_accessor :val, :left, :right
+  def initialize(num)
+    @val = num
+    @left = @right = nil
+  end
+end
+
+root = TreeNode.new(5)
+
+puts root.val
+```
+
+### Template
+- [Graph Valid Tree](https://github.com/cogrammers/Algorithm/tree/master/graphValidTree)
+
 ## Depth First Search
 ## Linked List & Array
 ## Two Pointers
