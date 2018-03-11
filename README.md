@@ -193,11 +193,18 @@ puts root.val
 
 ### Template
 
+```
+  Recursion:
+    - Definition
+    - Disassembly
+    - Exit
+```
 ### Easy
 
 - [Combination Sum](https://leetcode.com/problems/combination-sum/description/)
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)
+- [Permutations](https://leetcode.com/problems/permutations/description/)
 
 ## Linked List & Array
 ## Two Pointers
