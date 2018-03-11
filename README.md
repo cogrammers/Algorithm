@@ -193,8 +193,11 @@ puts root.val
 
 ### Template
 
+### Easy
+
 - [Combination Sum](https://leetcode.com/problems/combination-sum/description/)
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)
+- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)
 
 ## Linked List & Array
 ## Two Pointers
