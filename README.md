@@ -14,6 +14,15 @@ Ruby solution:
 1. Open the terminal and clone the folder.
 2. Direct inside the folder and ran Rspec file.
 
+## Greedy
+
+```
+  track everything!
+```
+
+#### Easy
+- [Stock Price](https://github.com/cogrammers/Algorithm/tree/master/stockPrice)
+
 ## Binary Search
 ```
 input: an array of intergers and a target.
