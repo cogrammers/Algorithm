@@ -11,7 +11,7 @@ public static int getMaxProfit(int[] stockPricesYesterday) {
         int potentialProfit = currentPrice - minPrice;
         maxProfit = Math.max(maxProfit, potentialProfit);
         minPrice = Math.min(minPrice, currentPrice);
-    }
+        }
 
     return maxProfit;
 }
