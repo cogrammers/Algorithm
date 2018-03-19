@@ -216,6 +216,21 @@ puts root.val
 - [Permutations](https://leetcode.com/problems/permutations/description/)
 
 ## Linked List & Array
+
+#### Template
+
+```java
+public ListNode {
+  int val;
+  ListNode next;
+  ListNode(int val) {
+    val = val;
+    next = null;
+  }
+}
+```
+- [Reverse Order Storage](https://github.com/cogrammers/Algorithm/tree/master/reverseOrderStorage)
+
 ## Two Pointers
 ## Hash & Heap
 ## Dynamic Programming
