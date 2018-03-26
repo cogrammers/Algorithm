@@ -234,8 +234,9 @@ public ListNode {
 - [Insert Into A Cyclic Sorted List](https://github.com/cogrammers/Algorithm/tree/master/insertIntoACyclicSortedList)
 
 ## Two Pointers
-## Hash & Heap
-## Dynamic Programming
+## Question Pool
+
+- [K Distinct Character](https://github.com/cogrammers/Algorithm/tree/master/kDistinctChar)
 
 
 ## Coding Style
