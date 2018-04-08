@@ -240,6 +240,9 @@ public ListNode {
 - [Two Sum Input Array Is Sorted](https://github.com/cogrammers/Algorithm/tree/master/twoSumInputArrayIsSorted)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 
+#### Easy
+- [Two Sum Unique Pairs](https://github.com/cogrammers/Algorithm/tree/master/twoSumUniquePairs)
+
 #### Med
 - [Find All Anagrams In A String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 
