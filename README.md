@@ -235,6 +235,10 @@ public ListNode {
 
 ## Two Pointers
 
+#### Template
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- [Two Sum Input Array Is Sorted](https://github.com/cogrammers/Algorithm/tree/master/twoSumInputArrayIsSorted)
+
 #### Med
 - [Find All Anagrams In A String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 
