@@ -236,6 +236,30 @@ public ListNode {
 ## Two Pointers
 
 #### Template
+
+```java
+// reverse an array
+// use while
+public void reverse(char[] s) {
+  int left = 0, right = s.length - 1;
+  while (left < right) {
+      char temp = s[left];
+      s[left] = s[right];
+      s[right] = temp;
+      left++;
+      right--;
+  }
+}
+
+// use for loop
+public void reverse(char[] s) {
+    for (int i = 0, j = s.length - 1; i < j; i++, j--) {
+        char temp = s[i];
+        s[i] = s[j];
+        s[j] = temp;
+    }
+}
+```
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 - [Two Sum Input Array Is Sorted](https://github.com/cogrammers/Algorithm/tree/master/twoSumInputArrayIsSorted)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
