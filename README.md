@@ -260,8 +260,13 @@ public void reverse(char[] s) {
     }
 }
 ```
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+##### Same direction two pointers questions:
+
+
+##### Opposite direction two pointers questions:
 - [Two Sum Input Array Is Sorted](https://github.com/cogrammers/Algorithm/tree/master/twoSumInputArrayIsSorted)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- [Recover Rotated Sorted List](https://github.com/cogrammers/Algorithm/tree/master/recoverRotatedSortedList)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 
 #### Med
