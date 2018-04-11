@@ -261,10 +261,14 @@ public void reverse(char[] s) {
 }
 ```
 ##### Same direction two pointers questions:
-
+- [Remove Duplicates In An Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- [Window Sum](https://leetcode.com/problems/sliding-window-maximum/description/)
+- [Two Sum Difference Equals To Target]()
+- [Middle Of Linked List](https://codebysteven.wordpress.com/2016/03/15/leetcode-find-the-middle-of-a-linked-list/)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 
 ##### Opposite direction two pointers questions:
-- [Two Sum Input Array Is Sorted](https://github.com/cogrammers/Algorithm/tree/master/twoSumInputArrayIsSorted)
+- [Two Sum Input Array Is Sorted](https://leetcode.com/problems/two-sum/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 - [Recover Rotated Sorted List](https://github.com/cogrammers/Algorithm/tree/master/recoverRotatedSortedList)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
