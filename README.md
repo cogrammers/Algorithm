@@ -37,6 +37,7 @@ output: index position of the first/any/last of the given target.
 ### Easy
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [Find closest number in array](https://www.geeksforgeeks.org/find-closest-number-array/)
+- [closest Number In Sorted Array](https://github.com/cogrammers/Algorithm/tree/master/closestNumberInSortedArray)
 
 ### Med
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
